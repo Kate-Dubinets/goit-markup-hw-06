@@ -69,19 +69,14 @@ img {
         padding-top: 16px;
         padding-bottom: 16px;
     }
-}  
+}
 
-
- .header-page .header-conteiner{
-       display: flex;
-       justify-content: space-between;
-   } 
    
-   .header-conteiner{
+ .header-conteiner{
       display: flex;
       justify-content: space-between;
    }
-   
+    
    
    .nav-list{
     display: flex;
@@ -92,8 +87,8 @@ img {
    .nav-page{
        display: flex;
        align-items: center;
-   }
-   
+   } 
+
    .nav-item{
        position: relative;
        color: #2e2f42;
@@ -136,7 +131,7 @@ img {
        letter-spacing: 0.03em;
        text-transform: uppercase;
        color: #4d5ae5;
-       margin-right: 76px;
+       margin-right: 76px; 
    }
    
    .logo-studio {
